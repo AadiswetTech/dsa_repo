@@ -1,0 +1,1 @@
+ // div=parseInt(div/10)
